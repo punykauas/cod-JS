@@ -1,0 +1,67 @@
+*{
+
+    padding: 0px;
+    margin: 0px;
+
+
+}
+
+
+#estilo{
+    color: aquamarine;
+    font-size: 4em;
+    background-color: black;
+
+
+
+}
+#div1{
+background-color: black;
+text-align: center;
+height: 200px;
+width: 100px;
+border: 15px solid blueviolet;
+color: bisque;
+display: inline-block;
+transition-duration: 0.5s;
+}
+div:hover#div1{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    height: 200px;
+    width: 100px;
+    border: 15px solid blueviolet;
+    color: bisque;
+    display: inline-block;
+    
+
+
+}
+#div2{
+    background-color: black;
+    text-align: center;
+    height: 200px;
+    width: 100px;
+    border: 15px solid blueviolet;
+    color: bisque;
+    display: inline-block;
+    
+    }
+#cara{
+
+
+    
+}
+
+
+:root{
+
+--cor01: blueviolet;
+
+
+
+}
+
+
+
+
